@@ -8,7 +8,7 @@ A small set of commands to ease the work with Github, uses [@octokit](https://gi
 4. Update your access token and username in `.env.local`
 
 ## Commands
-# Delete
+### Delete
 Run `npm run delete` in order to delete all repos in your Github account who's name matches the regular expression defined in `REPO_REGEX` environment variable.
 
 You can either define the environment variable in the command line - i.e. run `REPO_REGEX="^poc-.*$" npm run delete` or define it in `.env.local`
