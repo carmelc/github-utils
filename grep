@@ -1,0 +1,16 @@
+HTTP/2 500 
+date: Tue, 16 Apr 2024 12:14:13 GMT
+pragma: no-cache
+cache-control: no-store, no-cache
+vary: Accept-Encoding
+x-seen-by: yI4PPEXc3bvXNWfpzSkUarxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLrnTEZLXqF/U043eYuLNtpeeE7pS3hs9mccf1NWR3eZG,qYxvFa0bBL43z6b6TutC4dkitwZpgIY3R0iBfl0VBllEQfi00LSS7LJu7sdkoLsDHUTS+KDH/GtcVkSG+mZJlA==,r6yY0ta7bIKrqK70x072levu68OeUMaSXVH9OduvjD0=,g1tEHL6KXqacD6ojcO5kMgzW/WRy0Bt1e/GZsdDbae4=,6Qf9bB38XdX0mKxvNFPKL57TQMWpLGRUY/5S21PoVuQV2/TdzvXmannTdtW78OI3tYMpC0BhkbVEoYljDdSarAMTXLjwsFXKsKVQZu4b8fU=
+x-wix-request-id: 1713269652.1362533431605226136
+set-cookie: XSRF-TOKEN=1713269653|tkLhzZxIwA2u; Path=/; Domain=.wix.com; Secure; SameSite=None
+server: Pepyaka
+x-content-type-options: nosniff
+strict-transport-security: max-age=120 ; includeSubDomains
+via: 1.1 google
+glb-x-seen-by: wMMTADooq5AJ3cFomJ/MuXOQWGce7NCZXKms1ErOpBs=
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+Internal Server Error
